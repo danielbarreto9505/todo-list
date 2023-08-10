@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/danielbarreto9505/todo-list/assets/54070553/8d730774-87ff-435e-8a36-3da5eec70e37)
+2. ELIMINAR
+![image](https://github.com/danielbarreto9505/todo-list/assets/54070553/2474bb72-f30d-4ace-bcae-49741c06b61a)
+3. EDITAR
+![image](https://github.com/danielbarreto9505/todo-list/assets/54070553/7363921b-fec1-4de5-96ee-3a77b794e884)
+4. CREAR 
+![image](https://github.com/danielbarreto9505/todo-list/assets/54070553/c07b7a39-8c97-47ac-818b-e4bf5eceec0a)
 
 ## Available Scripts
 
